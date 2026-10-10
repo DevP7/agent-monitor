@@ -1,0 +1,4 @@
+# Scritti dal motore di Claude Code quando carica la mod
+.claude-plugin/types/
+tsconfig.json
+node_modules/

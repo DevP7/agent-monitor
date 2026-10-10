@@ -1,0 +1,13 @@
+{
+  "name": "agent-monitor",
+  "description": "Mod per Claude Code: mostra gli agenti in uso e i limiti di utilizzo",
+  "owner": {
+    "name": "DevP7"
+  },
+  "plugins": [
+    {
+      "name": "agent-monitor",
+      "source": "./"
+    }
+  ]
+}

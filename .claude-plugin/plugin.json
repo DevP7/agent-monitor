@@ -1,0 +1,9 @@
+{
+  "name": "agent-monitor",
+  "version": "0.1.0",
+  "description": "Mostra gli agenti in uso e i limiti di utilizzo: voce nella status line, pannello e comando /agenti",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "DevP7"
+  }
+}
